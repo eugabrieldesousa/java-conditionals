@@ -18,5 +18,7 @@ public class exercise1 {
         } else if (numero >= 0) {
             System.out.println("O número é positivo!");
         }
+
+        scanner.close();
     }
 }
