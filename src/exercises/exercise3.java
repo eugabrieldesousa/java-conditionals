@@ -23,5 +23,7 @@ public class exercise3 {
         } else {
             System.out.println("Nao sao Multiplos");
         }
+        
+        scanner.close();
     }
 }
